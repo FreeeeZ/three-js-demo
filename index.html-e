@@ -103,13 +103,13 @@
         {
           id: 0,
           name: 'Football boots',
-          path: '../three-js-demo/assets/models/mercurial_vapor_iv_legend/scene.gltf',
+          path: '../src/assets/models/mercurial_vapor_iv_legend/scene.gltf',
           fov: 60
         },
         {
           id: 1,
           name: 'Car',
-          path: '../three-js-demo/assets/models/porsche_911_rauh-welt/scene.gltf',
+          path: '../src/assets/models/porsche_911_rauh-welt/scene.gltf',
           fov: 10
         },
       ];
