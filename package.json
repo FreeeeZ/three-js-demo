@@ -7,7 +7,8 @@
     "live-server": "^1.2.2"
   },
   "scripts": {
-    "dev": "live-server --port=3000 --host=localhost --entry-file=src/index.html"
+    "dev": "live-server --port=3000 --host=localhost --entry-file=src/index.html",
+    "deploy": "sh bin/deploy.sh"
   },
   "repository": {
     "type": "git",
