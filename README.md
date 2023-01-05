@@ -24,4 +24,4 @@ https://sketchfab.com/3d-models/2008-mercurial-vapor-iv-legend-3af6eccd362a49429
 
 [MIT](https://github.com/FreeeeZ/three-js-demo/blob/main/LICENSE)
 
-Copyright (c) 2022, Shell Vladislav
+Copyright (c) 2023, Shell Vladislav
